@@ -77,14 +77,15 @@ body{
 }
 
 .modal-header {
-	background: $background-dark;
-	color: floralwhite;
+    background: $background-dark;
+    color: floralwhite;
 
-	.close {
-		color: floralwhite;
-	}
+    .close {
+        color: floralwhite;
+    }
 }
 
 .modal-body {
-	background: $background-pale;
+    background: $background-pale;
 }
+
